@@ -1,16 +1,65 @@
-## Hi there 👋
+💫 About Me:
+👋 Hey, I’m Suraj Bhan
 
-<!--
-**suraj-bhan28/suraj-bhan28** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 B.Tech Student | AI & Data Science
+💡 Builder mindset + real-world problem solver
+🚀 Future Data Scientist & AI Entrepreneur
 
-Here are some ideas to get you started:
+I love turning ideas into impactful tech projects that
+solve real problems. My focus is on AI, Data Science,
+and intelligent systems that can help people, businesses,
+and communities.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🧠 What I’m Into
+
+🤖 Artificial Intelligence & Machine Learning
+
+📊 Data Science & Analytics
+
+🌐 Building useful web-based platforms
+
+🧩 Problem-solving & hackathon projects
+
+📈 Using tech to create scalable solutions
+
+
+🌱 Currently Growing In
+
+Deep Learning
+
+Advanced Machine Learning
+
+Data Structures & Algorithms
+
+Real-world AI system building
+
+🎯 Goal
+
+To become a top Data Scientist and build
+an AI solutions company that
+helps businesses grow using data
+📫 Let’s Connect
+
+I’m always open to:
+
+Collaboration
+
+Hackathons
+
+AI/Data projects
+
+Learning opportunities
+
+🌐 Socials:
+Instagram LinkedIn email
+
+💻 Tech Stack:
+Python Google Cloud Anaconda FastAPI Flutter MySQL SQLite Matplotlib mlflow NumPy Pandas Plotly scikit-learn Scipy PyTorch GitHub Git Power Bi Prezi
+
+📊 GitHub Stats:
+
+
+
+
+
+
