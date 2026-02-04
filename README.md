@@ -1,65 +1,18 @@
-💫 About Me:
-👋 Hey, I’m Suraj Bhan
-
-🎓 B.Tech Student | AI & Data Science
-💡 Builder mindset + real-world problem solver
-🚀 Future Data Scientist & AI Entrepreneur
-
-I love turning ideas into impactful tech projects that
-solve real problems. My focus is on AI, Data Science,
-and intelligent systems that can help people, businesses,
-and communities.
-
-🧠 What I’m Into
-
-🤖 Artificial Intelligence & Machine Learning
-
-📊 Data Science & Analytics
-
-🌐 Building useful web-based platforms
-
-🧩 Problem-solving & hackathon projects
-
-📈 Using tech to create scalable solutions
+# 💫 About Me:
+👋 Hey, I'm Suraj Bhan<br><br>🎓 B.Tech Student | AI & Data Science<br>💡 Builder mindset + real-world problem solver<br>🚀 Future Data Scientist & AI Entrepreneur<br><br>I love turning ideas into impactful tech projects that<br>solve real problems. My focus is on AI, Data Science,<br>and intelligent systems that can help people, businesses, <br>and communities.<br><br>🧠 What I’m Into<br><br>🤖 Artificial Intelligence & Machine Learning<br><br>📊 Data Science & Analytics<br><br>🌐 Building useful web-based platforms<br><br>🧩 Problem-solving & hackathon projects<br><br>📈 Using tech to create scalable solutions<br><br>🛠 Tech Stack<br><br>Languages: Python, SQL, <br>Data: Pandas, NumPy, Excel, Data Analysis<br>AI/ML: Machine Learning basics, model building, data preprocessing<br>Tools: Git, GitHub, VS Code, Jupyter Notebook<br><br>🌱 Currently Growing In<br><br>Deep Learning<br><br>Advanced Machine Learning<br><br>Data Structures & Algorithms<br><br>Real-world AI system building<br><br>🎯 Goal<br><br>To become a top Data Scientist and build <br>an AI solutions company that<br>helps businesses grow using data<br>📫 Let’s Connect<br><br>I’m always open to:<br><br>Collaboration<br><br>Hackathons<br><br>AI/Data projects<br><br>Learning opportunities
 
 
-🌱 Currently Growing In
+## 🌐 Socials:
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/thakursuraj987) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/linkedin.com/in/suraj-bhan28) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:suraj9873219771@gmail.com) 
 
-Deep Learning
+# 💻 Tech Stack:
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![mlflow](https://img.shields.io/badge/mlflow-%23d9ead3.svg?style=for-the-badge&logo=numpy&logoColor=blue) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![Scipy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black) ![Prezi](https://img.shields.io/badge/Prezi-%23000000.svg?style=for-the-badge&logo=Prezi&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=suraj-bhan28&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=suraj-bhan28&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=suraj-bhan28&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-Advanced Machine Learning
+---
+[![](https://visitcount.itsvg.in/api?id=suraj-bhan28&icon=0&color=0)](https://visitcount.itsvg.in)
 
-Data Structures & Algorithms
-
-Real-world AI system building
-
-🎯 Goal
-
-To become a top Data Scientist and build
-an AI solutions company that
-helps businesses grow using data
-📫 Let’s Connect
-
-I’m always open to:
-
-Collaboration
-
-Hackathons
-
-AI/Data projects
-
-Learning opportunities
-
-🌐 Socials:
-Instagram LinkedIn email
-
-💻 Tech Stack:
-Python Google Cloud Anaconda FastAPI Flutter MySQL SQLite Matplotlib mlflow NumPy Pandas Plotly scikit-learn Scipy PyTorch GitHub Git Power Bi Prezi
-
-📊 GitHub Stats:
-
-
-
-
-
-
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
